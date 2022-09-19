@@ -1,7 +1,5 @@
-from devops_lib.randomfruit import fruit
+from devops_lib.randomfruit import meal
+import fire
 
-print(fruit())
-
-
-# var=  1
-# var=va
+if __name__ == "__main__":
+    fire.Fire(meal)
