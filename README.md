@@ -1,3 +1,5 @@
+[![Test Multiple Python Versions](https://github.com/snuzbrokh/python_devops/actions/workflows/main.yml/badge.svg)](https://github.com/snuzbrokh/python_devops/actions/workflows/main.yml)
+
 # python-for-devops-may-2022
 From ZERO to HERO
 
